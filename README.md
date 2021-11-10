@@ -1,1 +1,3 @@
 # RevaHack
+
+Plant Disease Detector
